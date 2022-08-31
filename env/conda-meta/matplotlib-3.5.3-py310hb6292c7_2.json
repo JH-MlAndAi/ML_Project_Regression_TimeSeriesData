@@ -1,0 +1,37 @@
+{
+  "build": "py310hb6292c7_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.5.3,<3.5.4.0a0",
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310",
+    "tornado"
+  ],
+  "extracted_package_dir": "/Users/jense/opt/miniconda3/pkgs/matplotlib-3.5.3-py310hb6292c7_2",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.5.3-py310hb6292c7_2.tar.bz2",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/jense/opt/miniconda3/pkgs/matplotlib-3.5.3-py310hb6292c7_2",
+    "type": 1
+  },
+  "md5": "a811b73762be633e202b81c6785182ac",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/Users/jense/opt/miniconda3/pkgs/matplotlib-3.5.3-py310hb6292c7_2.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "0d679a182533d2c6a9f1e6a3e1feca5c375ff8063f9408481b31cf8b5bc371ba",
+  "size": 7302,
+  "subdir": "osx-arm64",
+  "timestamp": 1661440520037,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/matplotlib-3.5.3-py310hb6292c7_2.tar.bz2",
+  "version": "3.5.3"
+}

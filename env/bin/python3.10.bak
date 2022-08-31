@@ -1,0 +1,43 @@
+#!/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env/bin/python
+
+import os
+import sys
+
+
+os.environ['PYTHON_CROSSENV'] = "1842884648"
+
+for name in ['_PYTHON_PROJECT_BASE', '_PYTHON_HOST_PLATFORM',
+        '_PYTHON_SYSCONFIGDATA_NAME', 'PYTHONHOME', 'PYTHONPATH']:
+    old = '_OLD_' + name
+    if old not in os.environ and name in os.environ:
+        os.environ[old] = os.environ[name]
+
+os.environ['_PYTHON_PROJECT_BASE']='/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env/bin'
+os.environ['_PYTHON_HOST_PLATFORM']='darwin-arm64'
+os.environ['_PYTHON_SYSCONFIGDATA_NAME']='_sysconfigdata_arm64_apple_darwin20_0_0'
+os.environ['PYTHONHOME']='/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env'
+oldpath = os.environ.get('PYTHONPATH')
+newpath = os.pathsep.join(['/Users/runner/miniforge3/conda-bld/cffi_1656783163977/_build_env/venv/lib', '/Users/runner/miniforge3/conda-bld/cffi_1656783163977/_build_env/lib/python3.10'])
+if oldpath:
+    path = os.pathsep.join([newpath, oldpath])
+else:
+    path = newpath
+
+os.environ['PYTHONPATH'] = path
+
+extra_envs = []
+for name, assign, value in extra_envs:
+    if assign == '=':
+        os.environ[name] = value
+    elif assign == '?=' and name not in os.environ:
+        os.environ[name] = value
+    elif assign == '+=':
+        os.environ[name] = os.environ.get(name,'') + value
+    elif assign == ':=':
+        if name in os.environ:
+            os.environ[name] = os.environ[name] + ':' + value
+        else:
+            os.environ[name] = value
+
+# This will fix up argv0 so that sys.executable will be correct
+os.execv('/Users/runner/miniforge3/conda-bld/cffi_1656783163977/_build_env/venv/build/bin/python', sys.argv)

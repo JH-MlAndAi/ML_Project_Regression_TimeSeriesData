@@ -1,0 +1,12 @@
+prefix=/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.4.0
+Libs: -L${libdir} -ltiff
+Libs.private: -lwebp -lzstd -llzma -lLerc -ljpeg -ldeflate -lz 
+Cflags: -I${includedir}
+Requires.private: 

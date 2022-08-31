@@ -1,0 +1,191 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "asttokens",
+    "executing",
+    "pure_eval",
+    "python >=3.5"
+  ],
+  "extracted_package_dir": "/Users/jense/opt/miniconda3/pkgs/stack_data-0.5.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/stack_data-0.5.0.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/stack_data-0.5.0.dist-info/LICENSE.txt",
+    "lib/python3.10/site-packages/stack_data-0.5.0.dist-info/METADATA",
+    "lib/python3.10/site-packages/stack_data-0.5.0.dist-info/RECORD",
+    "lib/python3.10/site-packages/stack_data-0.5.0.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/stack_data-0.5.0.dist-info/WHEEL",
+    "lib/python3.10/site-packages/stack_data-0.5.0.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/stack_data-0.5.0.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/stack_data/__init__.py",
+    "lib/python3.10/site-packages/stack_data/core.py",
+    "lib/python3.10/site-packages/stack_data/formatting.py",
+    "lib/python3.10/site-packages/stack_data/py.typed",
+    "lib/python3.10/site-packages/stack_data/serializing.py",
+    "lib/python3.10/site-packages/stack_data/utils.py",
+    "lib/python3.10/site-packages/stack_data/version.py",
+    "lib/python3.10/site-packages/stack_data/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/stack_data/__pycache__/core.cpython-310.pyc",
+    "lib/python3.10/site-packages/stack_data/__pycache__/formatting.cpython-310.pyc",
+    "lib/python3.10/site-packages/stack_data/__pycache__/serializing.cpython-310.pyc",
+    "lib/python3.10/site-packages/stack_data/__pycache__/utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/stack_data/__pycache__/version.cpython-310.pyc"
+  ],
+  "fn": "stack_data-0.5.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/jense/opt/miniconda3/pkgs/stack_data-0.5.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "d3f75ec3fee5a88f638e75ffdf605080",
+  "name": "stack_data",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/jense/opt/miniconda3/pkgs/stack_data-0.5.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/stack_data-0.5.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/stack_data-0.5.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "a476a2cb0ef4c41450340a577a28b91ac4c7f669136b2ee148047fabd5fc4181",
+        "sha256_in_prefix": "a476a2cb0ef4c41450340a577a28b91ac4c7f669136b2ee148047fabd5fc4181",
+        "size_in_bytes": 1066
+      },
+      {
+        "_path": "site-packages/stack_data-0.5.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5ca51ae225e71b6b2dc804d49df3488ef9509fa9b13dfdfe703ed0f0dbac88cb",
+        "sha256_in_prefix": "5ca51ae225e71b6b2dc804d49df3488ef9509fa9b13dfdfe703ed0f0dbac88cb",
+        "size_in_bytes": 18322
+      },
+      {
+        "_path": "site-packages/stack_data-0.5.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6c2c148b189b0f99b3ccf65b5a7c8a18a622d8121a30bca27c362b767147bce1",
+        "sha256_in_prefix": "6c2c148b189b0f99b3ccf65b5a7c8a18a622d8121a30bca27c362b767147bce1",
+        "size_in_bytes": 1545
+      },
+      {
+        "_path": "site-packages/stack_data-0.5.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/stack_data-0.5.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/stack_data-0.5.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2bcec84a34ee8e418b80c1522d15490b405d5895fcb9a7cb79fede20ecef66f3",
+        "sha256_in_prefix": "2bcec84a34ee8e418b80c1522d15490b405d5895fcb9a7cb79fede20ecef66f3",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "site-packages/stack_data-0.5.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "21aacf058618f5e7c99008149eeca43143f39d047e79b590618b1072a606c42a",
+        "sha256_in_prefix": "21aacf058618f5e7c99008149eeca43143f39d047e79b590618b1072a606c42a",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "site-packages/stack_data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a02d0f23f72687a4767af1c52e05056eb31912017f62f0a1ea91d76cfba83d2c",
+        "sha256_in_prefix": "a02d0f23f72687a4767af1c52e05056eb31912017f62f0a1ea91d76cfba83d2c",
+        "size_in_bytes": 419
+      },
+      {
+        "_path": "site-packages/stack_data/core.py",
+        "path_type": "hardlink",
+        "sha256": "dcec0951b89554c0422e3a2b4529ad7b5ecfe6699743fd4e7e20ebaf29fd6314",
+        "sha256_in_prefix": "dcec0951b89554c0422e3a2b4529ad7b5ecfe6699743fd4e7e20ebaf29fd6314",
+        "size_in_bytes": 33051
+      },
+      {
+        "_path": "site-packages/stack_data/formatting.py",
+        "path_type": "hardlink",
+        "sha256": "74889ac38ec7e0f2ec5d946c782d231278a3e5116cf7c940aa5f2bec35784a5d",
+        "sha256_in_prefix": "74889ac38ec7e0f2ec5d946c782d231278a3e5116cf7c940aa5f2bec35784a5d",
+        "size_in_bytes": 8508
+      },
+      {
+        "_path": "site-packages/stack_data/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e64f0169cbc512f44e3433509ba153b23e43c13f293199f20a4ec520770b92ff",
+        "sha256_in_prefix": "e64f0169cbc512f44e3433509ba153b23e43c13f293199f20a4ec520770b92ff",
+        "size_in_bytes": 73
+      },
+      {
+        "_path": "site-packages/stack_data/serializing.py",
+        "path_type": "hardlink",
+        "sha256": "ff27d993d5a194bce8ff2ee5bdc4c379a0c48b1a4448ed87a1bb914698cab881",
+        "sha256_in_prefix": "ff27d993d5a194bce8ff2ee5bdc4c379a0c48b1a4448ed87a1bb914698cab881",
+        "size_in_bytes": 6441
+      },
+      {
+        "_path": "site-packages/stack_data/utils.py",
+        "path_type": "hardlink",
+        "sha256": "33b8b851998e03b691ce8a0dd7f1da9aa55defc920b59e97c80dddc5597a9db5",
+        "sha256_in_prefix": "33b8b851998e03b691ce8a0dd7f1da9aa55defc920b59e97c80dddc5597a9db5",
+        "size_in_bytes": 5405
+      },
+      {
+        "_path": "site-packages/stack_data/version.py",
+        "path_type": "hardlink",
+        "sha256": "d0f688d9e48e0a9e6490d7292a95126cb1dfebaacbf714331696322c6a44b723",
+        "sha256_in_prefix": "d0f688d9e48e0a9e6490d7292a95126cb1dfebaacbf714331696322c6a44b723",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "lib/python3.10/site-packages/stack_data/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/stack_data/__pycache__/core.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/stack_data/__pycache__/formatting.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/stack_data/__pycache__/serializing.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/stack_data/__pycache__/utils.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/stack_data/__pycache__/version.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d3fec6b583ed95a3237a3f7936166d4b4b045477e62258a4a268212087d43208",
+  "size": 24486,
+  "subdir": "noarch",
+  "timestamp": 1661624666024,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/stack_data-0.5.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.5.0"
+}

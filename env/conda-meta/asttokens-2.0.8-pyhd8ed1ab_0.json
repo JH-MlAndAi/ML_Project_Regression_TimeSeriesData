@@ -1,0 +1,189 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5",
+    "six"
+  ],
+  "extracted_package_dir": "/Users/jense/opt/miniconda3/pkgs/asttokens-2.0.8-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/asttokens-2.0.8.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/asttokens-2.0.8.dist-info/LICENSE",
+    "lib/python3.10/site-packages/asttokens-2.0.8.dist-info/METADATA",
+    "lib/python3.10/site-packages/asttokens-2.0.8.dist-info/RECORD",
+    "lib/python3.10/site-packages/asttokens-2.0.8.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/asttokens-2.0.8.dist-info/WHEEL",
+    "lib/python3.10/site-packages/asttokens-2.0.8.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/asttokens-2.0.8.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/asttokens/__init__.py",
+    "lib/python3.10/site-packages/asttokens/asttokens.py",
+    "lib/python3.10/site-packages/asttokens/line_numbers.py",
+    "lib/python3.10/site-packages/asttokens/mark_tokens.py",
+    "lib/python3.10/site-packages/asttokens/py.typed",
+    "lib/python3.10/site-packages/asttokens/util.py",
+    "lib/python3.10/site-packages/asttokens/version.py",
+    "lib/python3.10/site-packages/asttokens/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/asttokens/__pycache__/asttokens.cpython-310.pyc",
+    "lib/python3.10/site-packages/asttokens/__pycache__/line_numbers.cpython-310.pyc",
+    "lib/python3.10/site-packages/asttokens/__pycache__/mark_tokens.cpython-310.pyc",
+    "lib/python3.10/site-packages/asttokens/__pycache__/util.cpython-310.pyc",
+    "lib/python3.10/site-packages/asttokens/__pycache__/version.cpython-310.pyc"
+  ],
+  "fn": "asttokens-2.0.8-pyhd8ed1ab_0.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/Users/jense/opt/miniconda3/pkgs/asttokens-2.0.8-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "4d725d10caaad25d9c31bfb263044fb4",
+  "name": "asttokens",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/jense/opt/miniconda3/pkgs/asttokens-2.0.8-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/asttokens-2.0.8.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/asttokens-2.0.8.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+        "sha256_in_prefix": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+        "size_in_bytes": 11357
+      },
+      {
+        "_path": "site-packages/asttokens-2.0.8.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7294b9b0e01389ed75caa0c60ebf7f78302c945d7042a44fafc15c8604658825",
+        "sha256_in_prefix": "7294b9b0e01389ed75caa0c60ebf7f78302c945d7042a44fafc15c8604658825",
+        "size_in_bytes": 4805
+      },
+      {
+        "_path": "site-packages/asttokens-2.0.8.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2c191b1aa560511377abbd2734e1a7afd17561814ac52d86d341d73ac5f4695a",
+        "sha256_in_prefix": "2c191b1aa560511377abbd2734e1a7afd17561814ac52d86d341d73ac5f4695a",
+        "size_in_bytes": 1533
+      },
+      {
+        "_path": "site-packages/asttokens-2.0.8.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/asttokens-2.0.8.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "sha256_in_prefix": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/asttokens-2.0.8.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b129f377007c8a92e597188a69db7f723c0f1540ad67f969e71b247226b83bb9",
+        "sha256_in_prefix": "b129f377007c8a92e597188a69db7f723c0f1540ad67f969e71b247226b83bb9",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/asttokens-2.0.8.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "9c90f07920fbfcd0613a547773c6e428930a33ea719404bc2b287c19c093d9d9",
+        "sha256_in_prefix": "9c90f07920fbfcd0613a547773c6e428930a33ea719404bc2b287c19c093d9d9",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/asttokens/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2f57154b80b63121414d3152569b24e779a2dab1f5fefb084e3579697101ee24",
+        "sha256_in_prefix": "2f57154b80b63121414d3152569b24e779a2dab1f5fefb084e3579697101ee24",
+        "size_in_bytes": 900
+      },
+      {
+        "_path": "site-packages/asttokens/asttokens.py",
+        "path_type": "hardlink",
+        "sha256": "2aca06d476ef78a9aed9ecfe29fe0b3e4da84570257c029267eab65a940ad416",
+        "sha256_in_prefix": "2aca06d476ef78a9aed9ecfe29fe0b3e4da84570257c029267eab65a940ad416",
+        "size_in_bytes": 9568
+      },
+      {
+        "_path": "site-packages/asttokens/line_numbers.py",
+        "path_type": "hardlink",
+        "sha256": "cf7137f17bd06a87179bfe4c5bcfa38a616bf889f988c13116498b3c70717a76",
+        "sha256_in_prefix": "cf7137f17bd06a87179bfe4c5bcfa38a616bf889f988c13116498b3c70717a76",
+        "size_in_bytes": 2842
+      },
+      {
+        "_path": "site-packages/asttokens/mark_tokens.py",
+        "path_type": "hardlink",
+        "sha256": "173c1e40966af0c8e756edb9a5a73cdf8c9c643af533b9e22fd571cb26213d13",
+        "sha256_in_prefix": "173c1e40966af0c8e756edb9a5a73cdf8c9c643af533b9e22fd571cb26213d13",
+        "size_in_bytes": 21392
+      },
+      {
+        "_path": "site-packages/asttokens/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/asttokens/util.py",
+        "path_type": "hardlink",
+        "sha256": "929a86f6e35056995c088c27acac127c575cc5b3c4ca2354bdf2138e811dd58e",
+        "sha256_in_prefix": "929a86f6e35056995c088c27acac127c575cc5b3c4ca2354bdf2138e811dd58e",
+        "size_in_bytes": 13700
+      },
+      {
+        "_path": "site-packages/asttokens/version.py",
+        "path_type": "hardlink",
+        "sha256": "a156e5e882cfe5dc8166d9b6894cccfd04d4852cb70b7db96868034e117b3ffe",
+        "sha256_in_prefix": "a156e5e882cfe5dc8166d9b6894cccfd04d4852cb70b7db96868034e117b3ffe",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "lib/python3.10/site-packages/asttokens/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/asttokens/__pycache__/asttokens.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/asttokens/__pycache__/line_numbers.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/asttokens/__pycache__/mark_tokens.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/asttokens/__pycache__/util.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/asttokens/__pycache__/version.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ec2a186080aaf79d157993e63c3928ec5fcc4cffab86acb7f0501f4a8d8d276f",
+  "size": 24644,
+  "subdir": "noarch",
+  "timestamp": 1660605486043,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/asttokens-2.0.8-pyhd8ed1ab_0.tar.bz2",
+  "version": "2.0.8"
+}

@@ -1,0 +1,10 @@
+prefix=/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env
+exec_prefix=${prefix}
+includedir=/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env/include
+libdir=/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env/lib
+
+Name: libdeflate
+Description: Fast implementation of DEFLATE, zlib, and gzip
+Version: 1.13
+Libs: -L${libdir} -ldeflate
+Cflags: -I${includedir}

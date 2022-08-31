@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env
+exec_prefix=/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env
+libdir=/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env/lib
+includedir=/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.6
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lpthread

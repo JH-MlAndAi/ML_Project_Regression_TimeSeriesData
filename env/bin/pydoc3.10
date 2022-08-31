@@ -1,0 +1,5 @@
+#!/Users/jense/Desktop/MachineLearningRegression(TimeSeries)/ML_Project_Regression_TimeSeriesData/env/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
